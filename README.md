@@ -24,4 +24,4 @@ Heres the link to the vcet chat bot where it can be accesed to chat online
 on any devices
 
 https://sites.google.com/view/vcetchatbot/home
-[embed]blueprint.pdf[/embed]
+
